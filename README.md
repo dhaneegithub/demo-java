@@ -1,4 +1,4 @@
-# Demo Java Web App, newly update comment on this project
+# Demo Java Web App, newly update comment on this project, PollSCM Project update
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
