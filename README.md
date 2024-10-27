@@ -34,7 +34,7 @@ Source | Url
 src/main/java/Hello.java | localhost:8080/demo/Hello
 src/main/webapp/index.jsp | localhost:8080/demo/index.jsp
 
-## Run
+## Run and provide update
 
 Here are the summarized commands to run and test that Tomcat is serving the war file:
 
