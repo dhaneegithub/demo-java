@@ -1,4 +1,4 @@
-# Demo Java Web App
+# Demo Java Web App, newly update comment on this project
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
